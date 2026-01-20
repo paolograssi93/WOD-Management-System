@@ -1,0 +1,270 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Coach Pierluigi",
+      "email": "admin@box.com",
+      "password": "123",
+      "role": "admin"
+    },
+    {
+      "id": "2",
+      "name": "Atleta Paolo",
+      "email": "paolo@box.com",
+      "password": "123",
+      "role": "athlete"
+    },
+    {
+      "id": "3",
+      "name": "Atleta Sara",
+      "email": "sara@box.com",
+      "password": "123",
+      "role": "athlete"
+    },
+    {
+      "id": "4",
+      "name": "Atleta Giulia",
+      "email": "giulia@box.com",
+      "password": "123",
+      "role": "athlete"
+    }
+  ],
+  "wods": [
+    {
+      "id": "1001",
+      "name": "Cindy",
+      "type": "AMRAP",
+      "duration": "20",
+      "exercises": [
+        "5 Pull-ups",
+        "10 Push-ups",
+        "15 Air Squats"
+      ],
+      "coachNotes": "Obiettivo: costanza. Cerca di mantenere lo stesso tempo per ogni round."
+    },
+    {
+      "id": "1002",
+      "name": "Fran",
+      "type": "For Time",
+      "duration": "10",
+      "exercises": [
+        "21-15-9 Thrusters (43/30kg)",
+        "21-15-9 Pull-ups"
+      ],
+      "coachNotes": "Sprint puro. Scegli un peso che ti permetta di fare i 21 thruster unbroken."
+    },
+    {
+      "id": "1003",
+      "name": "Murph",
+      "type": "Hero WOD",
+      "duration": "60",
+      "exercises": [
+        "1 Mile Run",
+        "100 Pull-ups",
+        "200 Push-ups",
+        "300 Air Squats",
+        "1 Mile Run"
+      ],
+      "coachNotes": "Puoi dividere le rep centrali in 20 round da 5-10-15."
+    },
+    {
+      "id": "1004",
+      "name": "Grace",
+      "type": "For Time",
+      "duration": "8",
+      "exercises": [
+        "30 Clean and Jerks (61/43kg)"
+      ],
+      "coachNotes": "Mantieni la tecnica anche sotto fatica. Power clean consigliato."
+    },
+    {
+      "id": "1005",
+      "name": "Annie",
+      "type": "For Time",
+      "duration": "12",
+      "exercises": [
+        "50-40-30-20-10 Double Unders",
+        "50-40-30-20-10 Sit-ups"
+      ],
+      "coachNotes": "Veloce sulle transizioni. Se non hai i DU, raddoppia i Single Unders."
+    },
+    {
+      "id": "1006",
+      "name": "Mary",
+      "type": "AMRAP",
+      "duration": "20",
+      "exercises": [
+        "5 Handstand Push-ups",
+        "10 Pistols",
+        "15 Pull-ups"
+      ],
+      "coachNotes": "WOD di ginnastica avanzata. Scala i pistol con air squat se necessario."
+    },
+    {
+      "id": "1007",
+      "name": "Chelsea",
+      "type": "EMOM",
+      "duration": "30",
+      "exercises": [
+        "5 Pull-ups",
+        "10 Push-ups",
+        "15 Air Squats"
+      ],
+      "coachNotes": "Ogni minuto per 30 minuti. Se non finisci nel minuto, diventa un AMRAP."
+    },
+    {
+      "id": "1008",
+      "name": "DT",
+      "type": "Hero WOD",
+      "duration": "15",
+      "exercises": [
+        "5 Rounds:",
+        "12 Deadlifts (70/47kg)",
+        "9 Hang Power Cleans",
+        "6 Push Jerks"
+      ],
+      "coachNotes": "Il grip è il fattore limitante. Gestisci bene i drop del bilanciere."
+    },
+    {
+      "id": "1009",
+      "name": "Nicole",
+      "type": "AMRAP",
+      "duration": "20",
+      "exercises": [
+        "400m Run",
+        "Max Reps Pull-ups"
+      ],
+      "coachNotes": "Il punteggio è il numero totale di pull-up completati."
+    },
+    {
+      "id": "1010",
+      "name": "Diane",
+      "type": "For Time",
+      "duration": "12",
+      "exercises": [
+        "21-15-9 Deadlifts (102/70kg)",
+        "21-15-9 HSPU"
+      ],
+      "coachNotes": "Lavoro di forza e spinta. Attenzione alla schiena nei deadlift."
+    },
+    {
+      "id": "1011",
+      "name": "Kalsu",
+      "type": "Hero WOD",
+      "duration": "30",
+      "exercises": [
+        "100 Thrusters (61/43kg)",
+        "Every minute on the minute: 5 Burpees"
+      ],
+      "coachNotes": "Uno dei WOD più duri. Inizia con 5 burpees al minuto 0."
+    },
+    {
+      "id": "1012",
+      "name": "Elizabeth",
+      "type": "For Time",
+      "duration": "12",
+      "exercises": [
+        "21-15-9 Cleans (61/43kg)",
+        "21-15-9 Ring Dips"
+      ],
+      "coachNotes": "Focalizzati sulla velocità del gomito nei clean."
+    },
+    {
+      "id": "1013",
+      "name": "Nancy",
+      "type": "For Time",
+      "duration": "20",
+      "exercises": [
+        "5 Rounds:",
+        "400m Run",
+        "15 Overhead Squats (43/30kg)"
+      ],
+      "coachNotes": "La stabilità delle spalle è fondamentale negli OHS."
+    },
+    {
+      "id": "1014",
+      "name": "Fight Gone Bad",
+      "type": "AMRAP",
+      "duration": "17",
+      "exercises": [
+        "3 Rounds (1 min per exercise):",
+        "Wall Balls",
+        "Sumo Deadlift High Pull",
+        "Box Jumps",
+        "Push Press",
+        "Row (Calories)"
+      ],
+      "coachNotes": "1 minuto di riposo tra i round. Punteggio totale delle rep/cal."
+    },
+    {
+      "id": "1015",
+      "name": "Hildy",
+      "type": "Hero WOD",
+      "duration": "45",
+      "exercises": [
+        "100 Chest-to-Bar Pull-ups",
+        "100 Front Squats (61/43kg)",
+        "100 Push-ups",
+        "400m Run (con zavorra)"
+      ],
+      "coachNotes": "Richiede grande resistenza muscolare. Spezza le serie dall'inizio."
+    },
+    {
+      "id": "1016",
+      "name": "Karen",
+      "type": "For Time",
+      "duration": "12",
+      "exercises": [
+        "150 Wall Ball Shots (9/6kg)"
+      ],
+      "coachNotes": "Cerca di fare serie grandi (25-30 rep) con poco recupero."
+    },
+    {
+      "id": "1017",
+      "name": "Amanda",
+      "type": "For Time",
+      "duration": "15",
+      "exercises": [
+        "9-7-5 Muscle-ups",
+        "9-7-5 Snatch (61/43kg)"
+      ],
+      "coachNotes": "WOD tecnico per atleti avanzati. Pensa alla qualità del movimento."
+    },
+    {
+      "id": "1018",
+      "name": "Bodyweight EMOM",
+      "type": "EMOM",
+      "duration": "20",
+      "exercises": [
+        "Min 1: 15 Air Squats",
+        "Min 2: 12 Burpees",
+        "Min 3: 15 Sit-ups",
+        "Min 4: Rest"
+      ],
+      "coachNotes": "Ottimo per il condizionamento metabolico generale."
+    },
+    {
+      "id": "1019",
+      "name": "Nate",
+      "type": "AMRAP",
+      "duration": "20",
+      "exercises": [
+        "2 Muscle-ups",
+        "4 Handstand Push-ups",
+        "8 Kettlebell Swings (32/24kg)"
+      ],
+      "coachNotes": "Punta a completare molti round mantenendo i MU efficienti."
+    },
+    {
+      "id": "1020",
+      "name": "Isabel",
+      "type": "For Time",
+      "duration": "8",
+      "exercises": [
+        "30 Snatches (61/43kg)"
+      ],
+      "coachNotes": "Lavoro di potenza esplosiva. Power snatch è la scelta ideale."
+    }
+  ],
+  "user_activities": []
+}
