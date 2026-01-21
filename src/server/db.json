@@ -3,28 +3,28 @@
     {
       "id": "1",
       "name": "Coach Pierluigi",
-      "email": "admin@box.com",
+      "email": "admin@box.it",
       "password": "123",
       "role": "admin"
     },
     {
       "id": "2",
       "name": "Atleta Paolo",
-      "email": "paolo@box.com",
+      "email": "paolo@box.it",
       "password": "123",
       "role": "athlete"
     },
     {
       "id": "3",
       "name": "Atleta Sara",
-      "email": "sara@box.com",
+      "email": "sara@box.it",
       "password": "123",
       "role": "athlete"
     },
     {
       "id": "4",
       "name": "Atleta Giulia",
-      "email": "giulia@box.com",
+      "email": "giulia@box.it",
       "password": "123",
       "role": "athlete"
     }
