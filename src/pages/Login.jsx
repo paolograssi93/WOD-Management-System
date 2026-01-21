@@ -91,11 +91,11 @@ function Login(){
 
         {/* -- A SOLO SCOPO DI TEST -- */}
         <div style={{ marginTop: "1.5rem", fontSize: "0.85rem", color: "#666", textAlign: "center", }}>
-          <p>Email di test <b>atleta</b>: <strong><u>paolo@box.com</u></strong></p>
+          <p>Email di test <b>atleta</b>: <strong><u>paolo@box.it</u></strong></p>
           <p>Password di test: <strong>123</strong></p>
         </div>
         <div style={{ marginTop: "0.5rem", fontSize: "0.85rem", color: "#666", textAlign: "center", borderTop: "1px solid #000",  }}>
-          <p>Email di test <b>admin</b>: <strong><u>admin@box.com</u></strong></p>
+          <p>Email di test <b>admin</b>: <strong><u>admin@box.it</u></strong></p>
           <p>Password di test: <strong>123</strong></p>
         </div>
       </div>
