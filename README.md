@@ -1,6 +1,7 @@
-*************************************************************************************************************************************************************************
-    -- APP CREATA A SOLO SCOPO DI DIMOSTRARE LE CONOSCENZE FRONT-END IN FASE DI ESAME PER IL PROGRAMMA 'FRONT-END PROGRAMMING' DI EPICODE INSTITUTE OF TECHNOLOGY --    
-*************************************************************************************************************************************************************************
+***********************************************************************************************
+    -- APP CREATA A SOLO SCOPO DI DIMOSTRARE LE CONOSCENZE FRONT-END IN FASE DI ESAME 
+         PER IL PROGRAMMA 'FRONT-END PROGRAMMING' DI EPICODE INSTITUTE OF TECHNOLOGY --    
+***********************************************************************************************
 
 WOD Management System 🏋️‍♂️💪
 Una piattaforma completa progettata per la gestione degli allenamenti all'interno di un Box CrossFit o palestra. Il sistema permette una comunicazione fluida tra Coach e Atleti, monitorando i progressi e le performance in tempo reale.
