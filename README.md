@@ -1,5 +1,5 @@
 *************************************************************************************************************************************************************************
-*   -- APP CREATA A SOLO SCOPO DI DIMOSTRARE LE CONOSCENZE FRONT-END IN FASE DI ESAME PER IL PROGRAMMA 'FRONT-END PROGRAMMING' DI EPICODE INSTITUTE OF TECHNOLOGY --    *
+    -- APP CREATA A SOLO SCOPO DI DIMOSTRARE LE CONOSCENZE FRONT-END IN FASE DI ESAME PER IL PROGRAMMA 'FRONT-END PROGRAMMING' DI EPICODE INSTITUTE OF TECHNOLOGY --    
 *************************************************************************************************************************************************************************
 
 WOD Management System 🏋️‍♂️💪
