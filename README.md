@@ -1,5 +1,16 @@
+*************************************************************************************************************************************************************************
+*   -- APP CREATA A SOLO SCOPO DI DIMOSTRARE LE CONOSCENZE FRONT-END IN FASE DI ESAME PER IL PROGRAMMA 'FRONT-END PROGRAMMING' DI EPICODE INSTITUTE OF TECHNOLOGY --    *
+*************************************************************************************************************************************************************************
+
 WOD Management System 🏋️‍♂️💪
 Una piattaforma completa progettata per la gestione degli allenamenti all'interno di un Box CrossFit o palestra. Il sistema permette una comunicazione fluida tra Coach e Atleti, monitorando i progressi e le performance in tempo reale.
+
+### 🛠️ Architettura e Gestione Dati
+Per questo progetto è stata simulata un'infrastruttura **REST API** utilizzando `json-server`. 
+I dati presenti in `db.json` sono esposti a scopo dimostrativo per permettere il test delle seguenti funzionalità Front-End:
+* **CRUD Operations**: Creazione, lettura, aggiornamento e cancellazione dei dati (Atleti/WOD).
+* **State Management**: Gestione globale dello stato tramite Redux Toolkit.
+* **Async Logic**: Gestione delle chiamate asincrone e dei tempi di caricamento (loading states).
 
 🚀 Caratteristiche Principali
 👤 Area Atleta
@@ -36,7 +47,6 @@ Backend: JSON Server (simulazione API REST).
 Icone & Spinners: React Spinners & React Icons.
 
 📂 Struttura del Progetto
-Plaintext
 
 src/
 ├── pages/           # Dashboard, WodLibrary, Admin, WodDetail, Home, Login, UserProfile, NotFound
